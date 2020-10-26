@@ -9,6 +9,9 @@ This application helps a user to :
 *comment on the different pitches and leave feedback.
 *Submit a pitch in any category.
 
+
+*Can find application at https://pitchideasoneminute.herokuapp.com/
+
 ## SetUp / Installation Requirements
 ## Prerequisites
  * python3.6
